@@ -1,4 +1,4 @@
-# QSkILL_AIML_internship
+#ML projects
 Beginner machine learning projects using scikit-learn
 
 ## Projects Included
